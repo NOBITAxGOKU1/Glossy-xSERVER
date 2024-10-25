@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗔𝗡𝗡𝗜𝗘+𝗦𝗘𝗥𝗩𝗘𝗥 🔥">
 
 <p align="center">
-  <img src="https://graph.org/file/0257475b4a28c284f14d0-24f4fb2fd7a7e07aba.jpg">
+  <img src="https://telegra.ph/file/925eade709484516c5fe3.jpg">
 </p>
 
 <h3 align="center">
