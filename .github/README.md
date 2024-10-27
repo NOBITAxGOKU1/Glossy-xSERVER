@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗔𝗡𝗡𝗜𝗘 ✘ 𝗦𝗘𝗥𝗩𝗘𝗥 🦋⛦」──
+    ──「⛦🦋 GLOSSY ✘ 𝗦𝗘𝗥𝗩𝗘𝗥 🦋⛦」──
 </h2>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗔𝗡𝗡𝗜𝗘+𝗦𝗘𝗥𝗩𝗘𝗥 🔥">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐺ใօŝѕ¥+𝗦𝗘𝗥𝗩𝗘𝗥 🔥">
 
 <p align="center">
-  <img src="https://telegra.ph/file/925eade709484516c5fe3.jpg">
+  <img src="https://graph.org/file/e5374610b56df035774e6-541fa26a4a5bcc4db6.jpg">
 </p>
 
 <h3 align="center">
