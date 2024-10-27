@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❥ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/smoker_society"
+                text="❥ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/sachin_opboy2"
             ),
             InlineKeyboardButton(
-                text="❥ ᴄʜᴀᴛ ❥", url=f"https://t.me/GOKUxENGINE"
+                text="❥ ᴄʜᴀᴛ ❥", url=f"https://t.me/Og_membars"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/smoker_society"
+                  text="❥ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/sachin_opboy2"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/GOKUxENGINE"
+                text="❥ ᴄʜᴀᴛ ❥", url=f"https://t.me/Og_membars"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/smoker_society"
+                  text="❥ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/sachin_opboy2"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/GOKUxENGINE"
+                text="❥ ᴄʜᴀᴛ ❥", url=f"https://t.me/Og_membars"
             ),
         ],
 
